@@ -1,5 +1,5 @@
 1. Create a postgres database named signer
-2. Execute the follwoing queries:
+2. Execute the following queries:
 ```
 create table users (
 	id serial primary key,
